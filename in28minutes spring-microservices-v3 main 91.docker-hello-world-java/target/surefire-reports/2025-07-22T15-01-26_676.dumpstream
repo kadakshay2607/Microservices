@@ -1,0 +1,5 @@
+# Created at 2025-07-22T15:01:26.907
+Boot Manifest-JAR contains absolute paths in classpath 'D:\IMPORTANT _DOCS\microservices\workspaces\in28minutes spring-microservices-v3 main 91.docker-hello-world-java\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

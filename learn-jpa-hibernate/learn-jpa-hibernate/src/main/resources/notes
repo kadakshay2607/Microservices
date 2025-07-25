@@ -1,0 +1,5 @@
+select * from course;
+
+insert into course (id,name,author) values(2,'Leran Docker','in28minutes');
+
+delete from course where id= ?;
